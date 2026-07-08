@@ -1,0 +1,11 @@
+# B端智能售前方案生成系统 - 依赖列表
+
+# LLM API调用
+requests>=2.31.0
+
+# Web界面
+gradio>=4.0.0
+
+# 可选：用于后续向量检索(RAG)
+# chromadb>=0.4.0
+# sentence-transformers>=2.2.0
